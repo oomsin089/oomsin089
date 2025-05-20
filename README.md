@@ -1,5 +1,5 @@
 # My name is Nattanun Naknaree
-# I'm a Developer 💻
+# 💻 I'm a Developer 
 
 🌍  I live in bangkok  
 ⚡  I love Game, Music, Code, Cartoon
